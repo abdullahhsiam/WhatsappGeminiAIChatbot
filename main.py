@@ -4,9 +4,9 @@ import json
 import ssl
 import google.generativeai as genai
 
-GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY'
-WHATABOT_API_KEY = 'YOUR_API_KEY'
-PHONE_NUMBER = 'YOUR_PHONE_NUMBER'
+GEMINI_API_KEY = 'AIzaSyDnL2vGrUHA7AdzN_UounyneI1tRNfWosA'
+WHATABOT_API_KEY = '4655746a-098d-4aac-a8df'
+PHONE_NUMBER = '+8801409450669'
 
 model = None
 
